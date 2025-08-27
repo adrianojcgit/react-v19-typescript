@@ -1,14 +1,13 @@
 import Menu from "@/components/Menu";
 import Footer from "@/components/Footer";
 
-const Home = () => {
+const Contact = () => {
   return (
     <div>
       <Menu /><br/>
-      <h2>Bem-vindo!!</h2><br />
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default Contact;
